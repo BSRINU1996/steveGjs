@@ -67,6 +67,11 @@ for(let i= 0 ; i<myNodelist.length ; i++){
 
     }
     else{
+
+
+
+
+        
         myNodelist[i].style.color = "green";
 
     }
